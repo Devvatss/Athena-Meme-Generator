@@ -29,17 +29,3 @@ Try it out live at - <https://meme-imgflipapi.netlify.app/>
 - **Edit Meme Page: /:id/:text_boxes** - dynamically rendered url for any meme to be created. text_boxes param is used to dynamically render the number of text fields required for a particular meme. On submission of the form POST request on <https://api.imgflip.com/caption_image> returns the meme desired with the changes applied.
 
 ***
-
-## Screenshots:
-
-- ### Home Page
-    ![Homepage](images/homepage.png "Homepage")
-
-- ### Edit Meme Page
-    ![Edit Meme](images/edit-meme-page.png "Edit Meme")
-
-- ### Mobile Responsive View for Edit Meme
-    ![Responsive View](images/responsive.png "Responsive View")
-
-- ### Generated Meme Modal
-    ![Meme Created Modal](images/meme-generate.png "Meme Created Modal")
