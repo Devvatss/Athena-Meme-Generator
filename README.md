@@ -1,4 +1,6 @@
 # Meme Generator
+Check it live on Netlify.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ddf6e01e-0260-41e1-9759-9283220d4894/deploy-status)](https://app.netlify.com/sites/athena-meme-generator/deploys)
 ***
 
 ## Features inculcated in the project:
