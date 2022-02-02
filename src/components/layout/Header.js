@@ -12,13 +12,14 @@ function Header() {
         color: "#3A1D74",
         textShadow: "4px 4px 4px #0096FF",
         justifyContent: "center",
+        flexWrap: "wrap",
     }
     return (
         <header style={headerStyle}>
             <img src={logo} alt={logo}
             style={{
                 display: "flex",
-                width: "200px",
+                width: "6em",
                 
             }}/>
             <h1>Meme Generator</h1>
